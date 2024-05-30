@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+div{
+    height: 100px;
+    width:100px;
+    background-color: black;
+}
